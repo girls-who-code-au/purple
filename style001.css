@@ -1,0 +1,13 @@
+/* Check out Mozilla's tutorial at:
+   https://developer.mozilla.org/en-US/docs/Web/CSS */
+
+body {
+  background-color: rgb(170,170,170);
+  font-family: arial, sans-serif;
+  font-size: 12px;
+}
+
+h1 {
+  font-size: 32px;
+  margin-top: 6px;
+}
